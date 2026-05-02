@@ -1,7 +1,7 @@
 # Calculator
 Simple Calculator With C++ OOP 
 
-🧮 Simple Calculator in C++
+Simple Calculator in C++
 
 This is a simple Calculator Project implemented in C++ using the concept of Classes and Object-Oriented Programming (OOP).
 The calculator supports:
